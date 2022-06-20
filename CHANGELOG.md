@@ -1,3 +1,9 @@
+#### 0.1.6 (2022-06-20)
+
+##### New Features
+
+* **PDF plugin:**  Default to vertical view without pagination
+
 #### 0.1.5 (2020-10-29)
 
 ##### Bug Fixes
