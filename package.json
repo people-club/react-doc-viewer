@@ -2,10 +2,10 @@
  "name": "react-doc-viewer",
  "version": "0.1.6",
  "description": "Document viewer for react. Renders online/local documents.",
- "author": "Matthew Mogford",
+ "author": "Matthew Mogford, forked by People Club",
  "license": "ISC",
  "repository": {
-  "url": "https://github.com/Alcumus/react-doc-viewer"
+  "url": "https://github.com/people-club/react-doc-viewer"
  },
  "main": "build/index.js",
  "types": "build/index.d.ts",
