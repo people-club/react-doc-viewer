@@ -25,7 +25,7 @@ export interface DocViewerProps {
   pluginRenderers?: DocRenderer[];
 }
 
-const DocViewer: FC<DocViewerProps> = (props) => {
+const DocViewer: FC<DocViewerProps> = (props: any) => {
   const { documents, theme } = props;
 
   if (!documents || documents === undefined) {
